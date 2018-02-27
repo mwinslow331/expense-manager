@@ -1,3 +1,11 @@
+I began to follow a MERN project I found on Medium.com. After some time I realized the application was more complex than I was accustomed to. This is something I will come back to revisit at another date.
+
+I left off at step 7.2. Mongo server would not connect:
+(node:5663) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 1): MongoError: Authentication failed.
+(node:5663) DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
